@@ -1,0 +1,1 @@
+python main.py "immobilien" --start=1 --stop=5 --file="results.txt"
